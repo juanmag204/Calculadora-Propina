@@ -1,0 +1,29 @@
+.container{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    border: 4px solid gray;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+.pillo{
+    width: 50px;
+    border: 1px solid gray;
+    border-radius: 4px; 
+    padding: 8px;
+}
+
+.pillo2{
+    border: 1px solid gray;
+    border-radius: 4px; 
+    padding: 6px;
+}
+.titulos{
+    font-size: larger;
+} 
+.Titulo{
+    font-size: xx-large;   
+}  
